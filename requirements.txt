@@ -1,0 +1,11 @@
+playwright
+beautifulsoup4
+python-dotenv
+pandas
+streamlit
+neo4j
+openai
+langchain
+langchain-openai
+langchain-community
+chromadb
